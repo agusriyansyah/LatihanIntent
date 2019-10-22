@@ -20,8 +20,8 @@
         android:id="@+id/id_nim"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
-        android:layout_marginTop="30dp"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="35dp"
         android:text="nim"
         android:textColor="#070000" />
 
@@ -29,7 +29,7 @@
         android:id="@+id/id_nama"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
+        android:layout_marginLeft="90dp"
         android:text="nama"
         android:textColor="#050000" />
 
@@ -37,7 +37,7 @@
         android:id="@+id/id_nilai"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
+        android:layout_marginLeft="90dp"
         android:text="nilai"
         android:textColor="#030000" />
 
@@ -45,7 +45,7 @@
         android:id="@+id/keterangan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="80dp"
+        android:layout_marginLeft="90dp"
         android:text="keterangan"
         android:textColor="#130000" />
 
